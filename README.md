@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Geethaka Perera
-- 👀 I’m interested in Machine Learning, Wireless Communication 
+- 👀 I’m interested in Machine Learning, Wireless Communication and Cloud Computing
 - 🌱 I’m currently learning Data Mining, Rainforcement Learning using Python and MATLAB
 - 💞️ I’m looking to collaborate on Machine Learing and AI Projects with Mathematical Foundation
 - 📫 How to reach me @GeethakaShyamal on Twitter
